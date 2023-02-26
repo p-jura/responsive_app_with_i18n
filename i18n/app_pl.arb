@@ -1,0 +1,10 @@
+{
+    "appBar_title":"Responsywna aplikacja z i18n",
+    "appBar_button_about":"Informacje o aplikacji",
+    "appBar_button_check":"Sprawdź aktualizacje",
+    "appBar_button_exit":"Wyjdź z aplikacji",
+    "navigationBar_profile": "Mój Profil",
+    "navigationBar_lessons": "Moje lekcje",
+    "navigationBar_dictionary": "Słownik",
+    "mainPage_text1": "To jest przykładowy tekst"
+}

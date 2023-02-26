@@ -1,0 +1,10 @@
+{
+    "appBar_title":"Responsive App with i18n",
+    "appBar_button_about":"Bewerbungs informationen",
+    "appBar_button_check":"Auf Updates prüfen",
+    "appBar_button_exit":"App beenden",
+    "navigationBar_profile": "My Profile",
+    "navigationBar_lessons": "My lessons",
+    "navigationBar_dictionary": "Dictionary",
+    "mainPage_text1": "This is a text sample"
+}

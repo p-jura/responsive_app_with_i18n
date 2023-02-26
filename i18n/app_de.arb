@@ -1,0 +1,10 @@
+{
+    "appBar_title":"Reaktionsschnelle App mit i18n",
+    "appBar_button_about":"App information",
+    "appBar_button_check":"Check for updates",
+    "appBar_button_exit":"Exit app",
+    "navigationBar_profile": "Mein Profil",
+    "navigationBar_lessons": "Meine Lektionen",
+    "navigationBar_dictionary": "Wörterbuch",
+    "mainPage_text1": "Dies ist ein Textspiel"
+}
